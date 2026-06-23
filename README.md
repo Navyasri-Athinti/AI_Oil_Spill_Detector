@@ -1,5 +1,7 @@
 # AI_Oil_Spill_Detector
+🌐 Live Demo: https://huggingface.co/spaces/AthintiNavyasri/ai-oil-spill-detector
 
+An AI-powered satellite image segmentation system that detects oil spills in ocean regions using a U-Net deep learning architecture trained on Sentinel-1 SAR imagery.
 ⚠️ Model file is hosted externally due to GitHub size limits.
 
 Download here:
